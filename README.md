@@ -1,0 +1,2 @@
+- 👋 Ola, sou Futurist_Bot
+- 👀 Sou interessado em fazer script ou aprender
